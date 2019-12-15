@@ -1,11 +1,13 @@
 # WebSocketSharp
-A Service approach to web socket in .Net Core
+A Service approach to web socket in .Net Core.
 
 This is an experimental experience. Use it at your own risk.
 
 ## Requirements
 * Visual Studio (Code or any other)
 * .Net Core ^3.1
+
+Could probably be built with .Net 3 or less with some minimal changes.
 
 ### Controllers & Handlers
 - explain the naming convention (Controller, Handler)
